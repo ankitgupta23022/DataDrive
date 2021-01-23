@@ -345,3 +345,7 @@ Thank you for understanding...<br />
 
   </body>
 </html>
+
+<?php
+// This PHP code is inserted to fix Github's Hacklang detection issue
+?>
