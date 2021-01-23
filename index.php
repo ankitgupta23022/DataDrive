@@ -551,6 +551,3 @@ observer.observe(document.querySelector('#myVideo'));//Observer which observes t
 
   </body>
 </html>
-<?php
-// PHP code to change Github status from Hacklang to PHP or HTML
-?>
