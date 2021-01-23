@@ -475,3 +475,7 @@ observer.observe(document.querySelector('#myVideo'));
 
   </body>
 </html>
+
+<?php
+// This PHP code is inserted to fix Github's Hacklang detection issue
+?>
