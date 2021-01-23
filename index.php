@@ -551,3 +551,6 @@ observer.observe(document.querySelector('#myVideo'));//Observer which observes t
 
   </body>
 </html>
+<?php
+// This PHP code is inserted to fix Github's Hacklang detection issue
+?>
